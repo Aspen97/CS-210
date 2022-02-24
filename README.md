@@ -1,8 +1,8 @@
 # CS-210
 C++
 Summarize the project and what problem it was solving.
-The project that I have created takes the starting amount of the user's investment and calculates how much the user can save in a month with added compund interest.
-The program then total the amount of savings according to how many years are inputted. 
+The project that I have created takes the starting amount of the user's investment and calculates how much the user can save in a month with added compound interest.
+The program then totals the amount of savings according to how many years are inputted. 
 
 What did you do particularly well?
 I believe one thing I did particularly well was make sure that I created neat, readable code.
